@@ -1,0 +1,3 @@
+Mars;Dubois;ajug@gh.fr;France;de la liberte;Roubaix;Boulevard;0;59100;52;25121;2321254;cour 25
+septembre;Dubiere;mlkjhdf@gt.hy;Espagne;du chemin vert;tourcoing;Allée;0;59200;23;5642;54213;maison 9854
+dee;ggffdf;fddfsfdg@fdff.fr;France;ffdf;gffdgg;Rue;6;455;45;54654;362654;gfdfg
